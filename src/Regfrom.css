@@ -1,0 +1,77 @@
+.registration-form{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content:center ;
+    height:0 auto;
+    box-sizing: border-box;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom:20px ;
+}
+.registration-form{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+label{
+    margin-bottom: 5px;
+    font-size: x-large;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border:1px solid #ccc ;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(83, 95, 91);
+    color: white;
+    font-size: 16px;
+}
+button:hover{
+    background-color:lightslategray;
+}
+select{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+
+
+}
+.form-group1{
+    display: flex;
+    flex-direction: left;
+    margin-bottom: 20px;
+}
+.delivary,.gender{
+    width: 10%;
+}
+textarea{
+    width: 100%;
+}
+.warning{
+    padding:0 px;
+    font-size: x-large;
+    color:red;
+}
