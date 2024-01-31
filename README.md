@@ -40,3 +40,10 @@ COMMENT SEECTION
 Includes a comments textarea for users to provide additional feedback or information if necessary.
 
 ![Screenshot-18](https://github.com/JothipriyaSaravanan/RegistrationForm/assets/155729866/22b7f76b-64e9-4870-9b0f-15eb28b1207a)
+
+
+REGISTRATION
+
+When click the register that will be show the alert box like your response  updated successfully with user name
+
+
