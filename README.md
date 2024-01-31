@@ -53,5 +53,9 @@ REGISTERED DATA TO CONSOLE
 
 Upon successful submission of the registration form, the entered data registed to the browser console.
 
+![Screenshot-20](https://github.com/JothipriyaSaravanan/RegistrationForm/assets/155729866/5f1fe7c2-d11e-48ee-9be4-d2e9a99ff23d)
+
+
+
 
 
