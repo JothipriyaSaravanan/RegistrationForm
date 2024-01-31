@@ -46,4 +46,12 @@ REGISTRATION
 
 When click the register that will be show the alert box like your response  updated successfully with user name
 
+![Screenshot-19](https://github.com/JothipriyaSaravanan/RegistrationForm/assets/155729866/963c5cba-6708-455e-aa78-dedc96b477d0)
+
+
+REGISTERED DATA TO CONSOLE
+
+Upon successful submission of the registration form, the entered data registed to the browser console.
+
+
 
