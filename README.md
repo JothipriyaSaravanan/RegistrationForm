@@ -21,3 +21,13 @@ Implemented password matching validation to ensure users enter matching password
 STATE/COURSE SELECTION
 
 Allows users to select from a range of available states and courses, providing flexibility and customization.
+
+![Screenshot-16](https://github.com/JothipriyaSaravanan/RegistrationForm/assets/155729866/5bf9054b-d5ac-47b3-8b13-05a94281b18c)
+
+
+![Screenshot-17](https://github.com/JothipriyaSaravanan/RegistrationForm/assets/155729866/52d764e5-8f11-4e65-ac4e-e2c72fb9e7f7)
+
+
+DELIVARY MODE PREFERENCES
+
+Offers users the choice between online and offline delivery modes, catering to diverse preferences.
