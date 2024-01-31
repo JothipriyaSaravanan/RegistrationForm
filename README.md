@@ -14,5 +14,6 @@ PASSWORD VALIDATION
 
 Implemented password matching validation to ensure users enter matching passwords for increased security.
 
+![Screenshot-15](https://github.com/JothipriyaSaravanan/RegistrationForm/assets/155729866/7cef65d1-2053-435e-afcf-8d3a59f4b13a)
 
 
